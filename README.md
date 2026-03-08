@@ -19,5 +19,5 @@ Hi, I'm Gyanti👋
 
 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/gyanti-kumari-191aa023a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kgyanti54@gmail.com)
